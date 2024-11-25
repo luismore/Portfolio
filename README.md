@@ -1,3 +1,4 @@
 # Portfolio
-Portfolio made using HTML-CSS<br>
+Portfolio/CV made using HTML-CSS
+<br>
 Using flexbox to display content
